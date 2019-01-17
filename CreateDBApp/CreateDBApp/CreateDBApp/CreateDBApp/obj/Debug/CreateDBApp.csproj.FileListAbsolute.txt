@@ -1,0 +1,7 @@
+C:\Users\CiCADA\Desktop\CreateDBApp\CreateDBApp\CreateDBApp\bin\Debug\CreateDBApp.exe.config
+C:\Users\CiCADA\Desktop\CreateDBApp\CreateDBApp\CreateDBApp\bin\Debug\CreateDBApp.exe
+C:\Users\CiCADA\Desktop\CreateDBApp\CreateDBApp\CreateDBApp\bin\Debug\CreateDBApp.pdb
+C:\Users\CiCADA\Desktop\CreateDBApp\CreateDBApp\CreateDBApp\obj\Debug\CreateDBApp.csproj.CoreCompileInputs.cache
+C:\Users\CiCADA\Desktop\CreateDBApp\CreateDBApp\CreateDBApp\obj\Debug\CreateDBApp.exe
+C:\Users\CiCADA\Desktop\CreateDBApp\CreateDBApp\CreateDBApp\obj\Debug\CreateDBApp.pdb
+C:\Users\CiCADA\Desktop\CreateDBApp\CreateDBApp\CreateDBApp\obj\Debug\CreateDBApp.csprojResolveAssemblyReference.cache
